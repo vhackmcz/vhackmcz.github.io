@@ -7,4 +7,4 @@ layout: home
 
 ![](/assets/capa.png)
 
-Inscrições em breve! Siga-nos no Facebook (fb.com/vhackmcz) ou no Instagram (@vhackmcz).
+**Inscrições** em breve! Siga-nos no **Facebook** (fb.com/vhackmcz) ou no **Instagram** (@vhackmcz).
