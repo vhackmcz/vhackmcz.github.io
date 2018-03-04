@@ -4,3 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+![](/assets/capa.png)
+
+Inscrições em breve! Siga-nos no Facebook (fb.com/vhackmcz) ou no Instagram (@vhackmcz).
