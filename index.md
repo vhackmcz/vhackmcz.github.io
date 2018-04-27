@@ -7,4 +7,4 @@ layout: home
 
 ![](/assets/capa.png)
 
-**Inscrições** em breve! Siga-nos no **Facebook** (*fb.com/vhackmcz*) ou no **Instagram** (*@vhackmcz*).
+Faça sua [**Inscrição**](https://www.doity.com.br/vh4ck-2018)! Siga-nos no **Facebook** (*fb.com/vhackmcz*) ou no **Instagram** (*@vhackmcz*).
